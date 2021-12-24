@@ -1,0 +1,3 @@
+<launch>
+  <node name= "OrbitalAvoidance"  pkg="orbital_pkg" type="orbital_avoidance.py" output ="screen"/>
+</launch>

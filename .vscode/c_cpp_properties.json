@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/devel/include/**",
+        "/home/jaeyoung/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/jaeyoung/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/communication/communication_pkg/include/**",
+        "/home/jaeyoung/catkin_ws/src/jaeyoung_test/include/**",
+        "/home/jaeyoung/catkin_ws/src/kga_test01/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_core/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_examples/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_io/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_maps/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_matching/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_projection/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_python/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_routing/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_traffic_rules/include/**",
+        "/home/jaeyoung/catkin_ws/src/lanelet2/lanelet2_validation/include/**",
+        "/home/jaeyoung/catkin_ws/src/learning_tf/include/**",
+        "/home/jaeyoung/catkin_ws/src/my_first_pkg/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/object_checker/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/pose_estimation/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/pub_pickup/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/pub_slot/include/**",
+        "/home/jaeyoung/catkin_ws/src/robot_setup_tf/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/communication/serial/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/trackdrive/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/ublox/ublox_gps/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/ublox/ublox_msgs/include/**",
+        "/home/jaeyoung/boongboong2021-main/boongboong_ws/src/ublox/ublox_serialization/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
